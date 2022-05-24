@@ -6,7 +6,7 @@ The main process is in the green_accessibility.py. It includes the data preproce
 
 In the Notebook folder is an example for Ghent. 
 
-This is a project still in progress and will be adjusted. If you found any mistake or have any suggestions, please feel free to contact me xuqiuyi1015@gmail.com. 
+This is a project still in progress and could be adjusted. 
 
 ## Modified 2SFCA model (Guassian distribution)
 ### Step1: 
