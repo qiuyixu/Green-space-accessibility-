@@ -2,7 +2,7 @@
 
 Python script to calculate green space accessibility using modified 2SFCA model.
 
-The main process is in the green_accessibility.py. It includes the data preprocessing for green space and population; calculation of the OD Matrix; Using  2SFCA model to get the accessibility scores. 
+The main file include 'code_for_a_single_city' and 'code_for_a_set_of_cities'. The process in each file is similar, includes the data preprocessing for green space and population; calculation of the OD Matrix; Using  M2SFCA model to get the accessibility scores. Differences are (1) the latter uses green space,boundry,network extracted from OSM; (2) the latter could get the accessibility score for a set of cities relatively automatically. 
 
 In the Notebook folder is an example for Ghent. 
 
