@@ -68,7 +68,7 @@ For each population grid cell, search all green space that are within the distan
 
 
 **Contributors**<br />
-S.M. Labib  email: s.m.labib@uu.nl<br />
+Labib S.M.  email: s.m.labib@uu.nl<br />
 Qiuyi Xu    e-mail: xuqiuyi1015@gmail.com
 
 
